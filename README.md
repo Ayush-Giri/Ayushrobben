@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushrobben
+- 👋 Hi, I’m Ayush Giri.
 - 👀 I’m interested in python programming, full stack web-development and software testing,
 - 🌱 I’m currently pursuing my degree in computer engineering.
 - 💞️ I’m looking to collaborate on python and web-dev projects
